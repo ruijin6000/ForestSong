@@ -4,7 +4,8 @@
   "description": "a end to end test web application ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
   "author": "Rui Jin",
   "license": "ISC",
